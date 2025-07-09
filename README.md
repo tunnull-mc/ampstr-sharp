@@ -4,6 +4,7 @@ An Amplitude (2003) Song File Extractor
 # Credits
 [Maxton](https://github.com/maxton) - Original AmpStr C Snippet<br>
 [Mariteaux/Cammy](https://github.com/mariteaux) - Edited Maxton's AmpStr C Snippet - Taken from [their blog post](https://archives.somnolescent.net/web/mari_v3/blog/2021/04/i-want-to-be-synthesized/)
+[NAudio/Mark Heath](https://github.com/naudio/NAudio) - NAudio library providing easy format to format audio conversion
 
 ## Gathering usable files
 The STR files this program works with are located inside of the /AUDIO directory of an Amplitude copy's disc.
