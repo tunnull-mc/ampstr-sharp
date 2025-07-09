@@ -7,7 +7,7 @@ An Amplitude (2003) Song File Extractor
 
 ## Gathering usable files
 The STR files this program works with are located inside of the /AUDIO directory of an Amplitude copy's disc.
-Dump and mount your Amplitude copy and either mount it in Explorer or extract it by other means to gather STR files ready to be used by ampstr-sharp.
+Dump your Amplitude copy and either mount it in Explorer or extract it by other means to gather STR files ready to be used by ampstr-sharp.
 
 # Usage
 AmpStr-Sharp is a command line only program, but comes with an incredibly simple syntax because of it's internal simplicity. AmpStr-Sharp currently has two audio formats available to convert to, MP3 and WAV. You'll need to specify one of these audio formats with each command you execute.
