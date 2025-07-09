@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ampstr-sharp": {
+      "commandName": "Project",
+      "commandLineArgs": "convertdir C:\\Users\\Matt\\Music\\amp03str wav"
+    }
+  }
+}
