@@ -1,8 +1,7 @@
 ﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# This .gitignore file was "automatically" created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /bin/Debug/net8.0
 /obj
-/.vs/ampstr-sharp/v17
-/.vs/ampstr-sharp/FileContentIndex
+/.vs

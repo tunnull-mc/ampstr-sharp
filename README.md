@@ -15,7 +15,7 @@ AmpStr-Sharp is a command line only program, but comes with an incredibly simple
 ### Directory Conversion
 To convert a directory, use the argument string `convertdir %DIRECTORYPATH% %AUDIOFORMAT%`. This will produce a directory in your working directory named the same as the path you provided's final member and place the files inside of it. `(Ex. E:\AUDIO -> %WORKINGDIR%\AUDIO)`.
 ### Single File Conversion
-To convert a single STR file, use the argument string `%STRFILEPATH% %AUDIOFORMAT%`. This will produce a file with the same name as the original file with your file format's file extension suffixed onto it `(Ex. E:\AUDIO\DRUMNBAS.STR -> DRUMNBAS.wav/DRUMNBAS.mp3)`.
+To convert a single STR file, use the argument string `%STRFILEPATH% %AUDIOFORMAT%`. This will produce a file with the same name as the original file with your file format's file extension suffixed onto it `(Ex. E:\AUDIO\DRUMNBAS.STR -> DRUMNBAS.wav\DRUMNBAS.mp3)`.
 
 ## Audio Formats (Extended)
 The audio formats that AmpStr-Sharp works with are WAV and MP3, the following will break them down more if you're indecisive upon which one to use.
